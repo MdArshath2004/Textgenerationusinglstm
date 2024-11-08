@@ -1,1 +1,1 @@
-# Textgenerationusinglstm
+# Text_generation_using_lstm
